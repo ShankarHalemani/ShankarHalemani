@@ -8,7 +8,7 @@
 
 <p>Find me around the web 🌎:</p>
 <ul>
-  <li>Connecting on <a href="https://www.linkedin.com/in/shankarling-halemani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></li>
+  <li>Connecting on <a href="https://www.linkedin.com/in/shankaraling-halemani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></li>
   <li>Sharing updates on <a href="https://www.instagram.com/shankar_halemani_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></li>
   <li>Drop me an email at <a href="mailto:shankarlinghalemani23@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></li>
 </ul>
